@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋 Ben Rojin Kaya</h1>
+<h1 align="center">Merhaba, Ben Rojin Kaya 👋</h1>
 
 <p align="center">
 Yönetim Bilişim Sistemleri öğrencisiyim. Yapay zekâ ve veri bilimi alanlarında kendimi geliştiriyorum.    
